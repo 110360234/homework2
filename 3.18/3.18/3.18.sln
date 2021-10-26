@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1684
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.18", "3.18\3.18.vcxproj", "{AED2DB4A-D7EA-4805-ADEC-C703A5674631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Debug|x64.ActiveCfg = Debug|x64
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Debug|x64.Build.0 = Debug|x64
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Debug|x86.ActiveCfg = Debug|Win32
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Debug|x86.Build.0 = Debug|Win32
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Release|x64.ActiveCfg = Release|x64
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Release|x64.Build.0 = Release|x64
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Release|x86.ActiveCfg = Release|Win32
+		{AED2DB4A-D7EA-4805-ADEC-C703A5674631}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E361748F-9210-47E9-9026-94B2725F9A7C}
+	EndGlobalSection
+EndGlobal
